@@ -1,0 +1,32 @@
+>> Project title or Overview: Laundry Hero Section Web Page
+    This project is a simple and responsive Laundry Service Hero Section created using HTML and CSS. 
+    The webpage contains a navigation bar with a logo, menu options, and user name, followed by a hero section that promotes eco-friendly laundry services.
+
+>>Features:
+    navigation bar
+        logo
+        menu list
+        user name
+    Hero section
+        left content area:  heading, desciption, button
+        right image area
+        
+>>Technologies used: 
+    HTML
+    CSS
+    Tranform_CSS
+
+>>Output:
+    1. A blue navigation bar at the top.
+    2. LaundryMart logo on the left.
+    3. Navigation links in the center.
+    4. User name on the right.
+    5. Large hero section with promotional content on the left.
+    6. Laundry-related image on the right.
+    7. "Book Service Today" button for user interaction.
+
+>>How to run:
+     Download the file or clone the project.
+     Ensure all files are in the same folder.
+     Open the index.html file using VS code in the browser.
+     THe webpage will run.
